@@ -1,0 +1,9 @@
+{ 
+  "name": "default",
+  "type": "mongodb",
+  "port": 27017,
+  "host": "localhost",
+  "database": "mongodbinotinhas",
+  "useUnifiedTopology": true,
+  "entities": ["./src/modules/**/entities/*.ts"]
+}
