@@ -5,5 +5,5 @@
   "host": "localhost",
   "database": "mongodbinotinhas",
   "useUnifiedTopology": true,
-  "entities": ["./src/modules/**/entities/*.ts"]
+  "entities": ["./dist/modules/**/entities/*.js"]
 }
